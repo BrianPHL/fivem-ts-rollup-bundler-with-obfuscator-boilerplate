@@ -1,5 +1,5 @@
 // NOTE: This file is only used for development purposes. It is not used in production.
-// This file is used to bundle the JAFMS core resource for use in the "JAFMS" server.
+//       This file is used to bundle the resource for use in a FiveM roleplay server.
 
 import typescript from "@rollup/plugin-typescript"
 import multiEntry from "@rollup/plugin-multi-entry"
