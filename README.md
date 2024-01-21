@@ -9,6 +9,7 @@ As the repository title implies, this is a boilerplate that FiveM developers can
 2. Rollup bundler to bundle up multiple source files into two; client-side and server-side.
 3. Built-in JavaScript obfuscation plugin to prevent code stealing.
 4. Faster than other bundlers.
+5. Supports CitizenFX natives using @citizenfx/client & @citizenfx/server packages.
 
 ## Usage
 1. Clone repository/boilerplate into your ``resources/*`` folder.
